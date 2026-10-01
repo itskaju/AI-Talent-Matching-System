@@ -2,7 +2,7 @@
 
 An intelligent full-stack recruiting platform that connects candidates with the right job opportunities using AI-based matching and modern web technologies.
 
-🌐 **Live Demo:** https://ai-talent-matching-system-xwsz-lime.vercel.app/login
+🌐 **Live Demo:**https://ai-talent-matching-system-xwsz-lime.vercel.app/login
 ---
 
 ## ✨ Overview
